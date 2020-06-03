@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  WeatherForecast
 //
-//  Created by Guest User on 10.03.2020.
-//  Copyright © 2020 Guest User. All rights reserved.
+//  Created by Adrian Janakiewicz on 10.03.2020.
+//  Copyright © 2020 Adrian Janakiewicz. All rights reserved.
 //
 
 import UIKit
